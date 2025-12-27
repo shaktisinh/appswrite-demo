@@ -2,6 +2,7 @@
   "name": "react-starter-kit-for-appwrite",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://shaktisinh.github.io/starter-for-react/",
   "type": "module",
   "scripts": {
     "dev": "vite",
